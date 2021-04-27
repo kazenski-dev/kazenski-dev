@@ -5,6 +5,8 @@
 ### Hello World!
 # kazenski Eduardo here xD
 
+I am interested in systems analysis and training of customers and employees.
+I am always looking for new learning, because technology changes every second.
 
 | JAVASCRIPT | JAVA | PYTHON | C | HTML | 
 | ------------ | ------------- | ------------- | ------------- | ------------- |
