@@ -1,12 +1,11 @@
 ### Hi there 👋
-https://images.app.goo.gl/FNb3exwdLdapRERy8
+
 
 | JAVASCRIPT | JAVA |
 | ------------ | ------------- |
 | PYTHON | C |
 
-![alt text](https://github.com/[kazenski-dev]/[reponame]/blob/[master]/https://github.com/kazenski-dev/imagens_in_readme/issues/2#issue-868346131?raw=true)
-
+![gif_01](https://user-images.githubusercontent.com/56809101/116170468-46c17980-a6dd-11eb-8dfa-512899dac280.gif)
 <!--
 **kazenski-dev/kazenski-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
