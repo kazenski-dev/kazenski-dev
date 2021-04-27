@@ -1,9 +1,9 @@
 ### Hi there 👋
 https://images.app.goo.gl/FNb3exwdLdapRERy8
 
-| col 1 | col 2 |
+| JAVASCRIPT | JAVA |
 | ------------ | ------------- |
-| imagem 1 | imagem 2 |
+| PYTHON | C |
 
 <!--
 **kazenski-dev/kazenski-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
