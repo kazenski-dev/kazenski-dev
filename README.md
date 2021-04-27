@@ -1,5 +1,5 @@
 ### Hello World!
-## kazenski Eduardo here xD
+# kazenski Eduardo here xD
 
 ![gif_02](https://user-images.githubusercontent.com/56809101/116171413-1b3f8e80-a6df-11eb-9cdd-41c77f824b32.gif)
 
@@ -9,7 +9,13 @@
 | PostgreeSQL | MongoDB | DBeaver | DevC++ | Eclipse | 
 | ------------ | ------------- | ------------- | ------------- | ------------- |
 
-![gif_01](https://user-images.githubusercontent.com/56809101/116170468-46c17980-a6dd-11eb-8dfa-512899dac280.gif)
+🌱 I’m currently learning HTML, CSS and Javascript
+👯 I'm looking to participate in system analysis and requirements gathering projects
+🔭 I’m looking for a job as a systems analyst
+📫 How to reach me: kazenski.developer@gmail.com
+😄 linkedin https://www.linkedin.com/in/eduardo-kazenski-585a3b188
+
+
 <!--
 **kazenski-dev/kazenski-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
