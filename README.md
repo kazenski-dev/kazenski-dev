@@ -1,6 +1,9 @@
 ### Hi there 👋
-![alt text](https://images.app.goo.gl/FNb3exwdLdapRERy8)
+https://images.app.goo.gl/FNb3exwdLdapRERy8
 
+| col 1 | col 2 |
+| ------------ | ------------- |
+| imagem 1 | imagem 2 |
 
 <!--
 **kazenski-dev/kazenski-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
