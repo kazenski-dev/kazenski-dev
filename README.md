@@ -2,11 +2,8 @@
   <img src="https://user-images.githubusercontent.com/56809101/116171413-1b3f8e80-a6df-11eb-9cdd-41c77f824b32.gif">
 </div>
 
-
 ### Hello World!
 # kazenski Eduardo here xD
-
-![gif_02](https://user-images.githubusercontent.com/56809101/116171413-1b3f8e80-a6df-11eb-9cdd-41c77f824b32.gif)
 
 
 | JAVASCRIPT | JAVA | PYTHON | C | HTML | 
