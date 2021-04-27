@@ -11,11 +11,11 @@
 | PostgreeSQL | MongoDB | DBeaver | DevC++ | Eclipse | 
 
 
-🌱 I’m currently learning HTML, CSS and Javascript
-👯 I'm looking to participate in system analysis and requirements gathering projects
-🔭 I’m looking for a job as a systems analyst
-📫 How to reach me: kazenski.developer@gmail.com
-😄 linkedin https://www.linkedin.com/in/eduardo-kazenski-585a3b188
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👯 I'm looking to participate in system analysis and requirements gathering projects
+- 🔭 I’m looking for a job as a systems analyst
+- 📫 How to reach me: kazenski.developer@gmail.com
+- 😄 linkedin https://www.linkedin.com/in/eduardo-kazenski-585a3b188
 
 
 <!--
